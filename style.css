@@ -1,0 +1,27 @@
+body {
+  background-image: url(images/train-station-template-background-free-photo.jpg);
+  background-size: cover;
+  text-align: center;
+}
+#increamant-btn,
+#decrement-btn,
+#save {
+  height: 80px;
+  width: 150px;
+  background-color: #914c22;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+  font-weight: bold;
+  font-size: 17px;
+  color: white;
+  padding: 20px;
+  margin: 50px;
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
